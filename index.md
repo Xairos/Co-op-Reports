@@ -26,6 +26,7 @@ I worked on two major projects during my time at Jibestream. The first was a loc
 The project gave me in-depth exposure to technical concepts like relational data management, before I could be exposed to them academically. It also highlighted the importance of openness and continuous communication in software development to me. After picking an SQL prototype I had designed, partially through implementation I realized that it could not work in a relational database system. Since I had been continually communicating my progress to my team lead, when I revealed that I had to start from scratch, he reassured me that it was not an issue to extend the task.
 
 # Work-Term Goals
+
 ### 1. I would like to improve my presentation skills. I’m interested in pursuing software architectural positions, where presentation skills are key in conveying ideas.
 After talking to my manager about my learning goals, I organized two meetings and presented at one of them. I found that I needed a much larger amount of preparation time compared to my team lead to organize presentation content and to appear “prepared”. Since the presentation was for the development team of 6, I was fairly confident and it went smoothly, but only because I had put in about 2 to 3x as much time before the meeting into preparation.
 
