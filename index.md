@@ -1,10 +1,7 @@
 # Introduction.
 What should you take away from this site? Short and sweet, I'm about to tell you.
 
-# Jibestream
-<p align="center">
-    <img src="js-logo-2.png" alt="Jibestream Logo">
-</p>
+![Jibestream Logo][js-logo]  
 Jibestream is a company of many mapping-related talents. At its heart, they provide an indoor navigation and mapping service through several products, spanning several SDKs across multiple platforms. Their clients also span multiple verticals, from mall corporations like Westfield and GGP, to government, such as The Pentagon.
 
 ### A typical client-side workflow.
@@ -21,4 +18,4 @@ The logical step was for Jibestream to move away from a service-based model to d
 # Major Projects, and what I learned.
 
 
-[jslogo]: js-logo.png "Jibestream Logo"
+[js-logo]: js-logo-2.png "Jibestream Logo"
