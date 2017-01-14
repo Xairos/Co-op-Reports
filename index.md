@@ -25,5 +25,7 @@ As a scrum master, I was responsible for keeping the story backlog groomed, orga
 
 # Wrap up
 My understanding of the company became exponentially more broad as time went on, highlighting the value of an 8-month co-op term. After four months, I had fixed a couple bugs and written a couple new features. After 8, I had written an authorization server for a new login system.
+![Knowledge over time][scope-graph]
 
 [js-logo]: js-logo-2.png "Jibestream Logo"
+[scope-graph]: knowledge.png "Knowledge over time"
