@@ -1,5 +1,5 @@
 # Introduction.
-What should you take away from this site? Short and sweet, I'm about to tell you.
+Working at Jibestream has been an incredible experience because of how much I have learned both about the business and engineering sides of working in the software development industry.
 
 ![Jibestream Logo][js-logo]  
 Jibestream is a company of many mapping-related talents. At its heart, they provide an indoor navigation and mapping service through several products, spanning several SDKs across multiple platforms. Their clients also span multiple verticals, from mall corporations like Westfield and GGP, to government, such as The Pentagon.
