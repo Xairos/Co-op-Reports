@@ -29,6 +29,10 @@ The project gave me in-depth exposure to technical concepts like relational data
 My understanding of the company became exponentially more broad as time went on, highlighting the value of an 8-month co-op term. After four months, I had fixed a couple bugs and written a couple new features. After 8, I had written an authorization server for a new login system.
 ![Knowledge over time][scope-graph]
 
+My understanding of the company became exponentially more broad as time went on, highlighting the value of an 8-month co-op term. After four months, I had fixed a couple bugs and written a couple new features. After 8, I had written an authorization server for a new login system.
+
+One of my goals was to become more exposed to the business side of software development. Through 1 on 1’s with my manager, I learned about how software development companies operate, and the various processes that drive them. I also had incredibly valuable experiences. I was happy to learn new technologies like Spring and PostgreSQL, but the value of learning these was matched by the Agile exposure from being a Scrum Master, or conveying OAuth 2 framework concepts in a presentation. Working at Jibestream was an incredible experience from several software development facets, and I’m extremely grateful to have had the opportunity to make an positive impact for the company.
+
 
 [js-logo]: js-logo-2.png "Jibestream Logo"
 [scope-graph]: knowledge.png "Knowledge over time"
