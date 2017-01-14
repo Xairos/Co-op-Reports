@@ -21,11 +21,14 @@ Also during this period, the development teams were midway through transitioning
 As a scrum master, I was responsible for keeping the story backlog groomed, organizing sprint meetings, mediating scrums, and running sprint retrospectives. It was intriguing to experience the early stages of Agile at an existing company, from vague user stories to missing sprint story-point targets. I learned a lot about both Agile and managerial perspectives by defending Agile processes when it seemed better to do things the easy way. Overall, I’m grateful for the opportunity, because I quickly became intimately familiar with a process used throughout the software development industry.
 
 # Major Projects, and what I learned.
+I worked on two major projects during my time at Jibestream. The first was a localization system, where an SDK could request a piece of data and the language it would like the data in (assuming an entry existed in that language). I was free to design every aspect of the system, from database modelling to API design, since localization was a brand-new feature for v4.0.
 
+The project gave me in-depth exposure to technical concepts like relational data management, before I could be exposed to them academically. It also highlighted the importance of openness and continuous communication in software development to me. After picking an SQL prototype I had designed, partially through implementation I realized that it could not work in a relational database system. Since I had been continually communicating my progress to my team lead, when I revealed that I had to start from scratch, he reassured me that it was not an issue to extend the task.
 
 # Wrap up
 My understanding of the company became exponentially more broad as time went on, highlighting the value of an 8-month co-op term. After four months, I had fixed a couple bugs and written a couple new features. After 8, I had written an authorization server for a new login system.
 ![Knowledge over time][scope-graph]
+
 
 [js-logo]: js-logo-2.png "Jibestream Logo"
 [scope-graph]: knowledge.png "Knowledge over time"
