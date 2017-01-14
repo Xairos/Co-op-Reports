@@ -5,7 +5,7 @@ What should you take away from this site? Short and sweet, I'm about to tell you
 Jibestream is a company of many mapping-related talents. At its heart, they provide an indoor navigation and mapping service through several products, spanning several SDKs across multiple platforms. Their clients also span multiple verticals, from mall corporations like Westfield and GGP, to government, such as The Pentagon.
 
 ### A typical client-side workflow.
-Let's say a mall is looking to add an indoor map into their existing app. If they turned to Jibestream, they would start by submitting architectural diagrams of their buildings to Jibestream’s mapping team, who in turn would convert the map into a vector representation for the mapping engine. Then, Jibestream would provide the mall with SDKs to implement map and navigation features that the mall would like to have in their app. Finally, mall managers could tweak almost all facets of navigation and mall features through Jibestream’s CMS (Content Management System).
+Suppose a mall is looking to add an indoor map into their existing app. If they turned to Jibestream, they would start by submitting architectural diagrams of their buildings to Jibestream’s mapping team, who in turn would convert the map into a vector representation for the mapping engine. Then, Jibestream would provide the mall with SDKs to implement map and navigation features that the mall would like to have in their app. Finally, mall managers could tweak almost all facets of navigation and mall features through Jibestream’s CMS (Content Management System).
 
 # Ben Rottke, Backend Software Engineer.
 Over my 8 months at Jibestream, I worked with a team of 5 other developers on the backend development team. Our job was to write and rewrite the backend Java APIs that serve content for other Jibestream products. My responsibilities varied widely during my time, including being “on call” for bug-fixing work or backend support, developing relational database models for new features, and writing REST API endpoints for SDKs to communicate with, to name a few.
@@ -22,5 +22,8 @@ As a scrum master, I was responsible for keeping the story backlog groomed, orga
 
 # Major Projects, and what I learned.
 
+
+# Wrap up
+My understanding of the company became exponentially more broad as time went on, highlighting the value of an 8-month co-op term. After four months, I had fixed a couple bugs and written a couple new features. After 8, I had written an authorization server for a new login system.
 
 [js-logo]: js-logo-2.png "Jibestream Logo"
