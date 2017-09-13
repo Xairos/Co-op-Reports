@@ -1,8 +1,9 @@
-title: Co-op at Jibestream
-description: 
+title: Co-op Reports
+description: A collection of work-term reports written by me, Ben Rottke.
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
 
-gems:
+plugins:
   - jekyll-mentions
+repository: Xairos/Co-op-Reports
