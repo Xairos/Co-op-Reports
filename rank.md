@@ -1,6 +1,4 @@
 # Rank Software
-## Introduction
-Summary here, what did I learn from Rank in a sentence or two. There's a sensitive nature to some of this, but I'll talk about what I can.
 
 ![Rank Logo][rank-logo]  
 Rank Software is a product company, with a security solution that brings the power of big data and machine learning to human analysts. This way, analysts can maximize the security of their deployment by having full knowledge of the important behaviours of their system. The primary user-facing component is VASA (Virtual Advisor to Security Analysts), a dashboard that presents actionable information to the user (usually a security analyst). The user can glean information from the system both passively and actively, and information being used by the system is available via powerful search and analysis workflows.
@@ -13,10 +11,20 @@ This differs from an antivirus in two major ways:
 2. Given the wide range and volume of data available to the system, pattern recognition and behaviour analysis can be performed in a much larger context.
 
 ## Ben Rottke, Cybersecurity Intern.
-Given the startup size of Rank, the development team comprised most of the company. I was part of this development team, and had the opportunity to work on the same class of tasks as my coworkers. Exceptions included machine learning and frontend dashboard work.
+Given the startup size of Rank, the company was mostly comprised of the development team. I was part of this small team, and had the opportunity to work on the same class of tasks as my coworkers. Exceptions included machine learning and web-based dashboard work. This was an opportunity to be exposed to a wide range of technologies, including:
++ Elasticsearch
++ Kibana
++ Logstash
++ Kafka
++ Spark
++ Hadoop
+
+This work term was a fantastic chance to learn big data toolsets, and to actually use them in a big data context. Learning about how distributed applications are architected was one of my biggest takeaways from my work term.
 
 ## Major projects, and what I learned.
+The majority of my time at Rank was split between two tasks. The first was to add auditd, a component of the Linux auditing system, as a datasource into the core engine. By completing the task, I was able to gain a deeper understanding of Linux syscalls and kernel architecture. I was also able to gain a better understanding of how certain breach types would manifest in Linux log files, and what mechanisms a hacker would likely employ to cover their tracks.
 
+The other major project was to add a rules testing framework that would allow for realtime development of rulesets. Part of the software system's capability is to have user-written rule files that define network behaviour that they want to be flagged. Before writing the framework, there was no interface into the engine that would allow for syntax checking and hot-loading of rules. To solve this, I built a system that would allow for execution of the rules in an identical, yet separate, pipeline. This way, I could feed in real data for rule testing, while leaving the rest of the production system untouched (avoiding generation of _real_ alerts, for example).
 
 # Work Term Goals
 
@@ -39,8 +47,5 @@ In reading the papers, I was surprised at the frequency of which the same domain
 This goal was intentionally vague, since at the time, the topic and time available for the final project were to be determined. In the end, the task was to evaluate the effectiveness of an ML algorithm in production. The task itself was originally estimated at 4 weeks, but there were only about 1 ½ weeks remaining in the work term. To remediate this, I re-evaluated the goal and built a schedule that mapped each day to my approximate progress.
 
 Breaking the task down into a solidified and fine-grained schedule aided me in providing concrete daily progress updates. It also helped keep me from deviating from the task or getting stuck, and made it clear when I was ahead of schedule. I used this time ahead as an opportunity to branch out of the core task to try an interesting evaluation mechanism, which ended up providing great value to the final report.
-
-# Wrap-up
-At Rank, I saw how quality software is written.
 
 [rank-logo]: rank-logo.png "Rank Logo"
