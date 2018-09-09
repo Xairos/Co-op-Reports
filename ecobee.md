@@ -1,9 +1,12 @@
-# ecobee
+# Introduction
 
-# Who
+In January 2018, I joined the Production Engineering team at ecobee for an 8 month co-op. The PE team maintains the reliability of the production systems, using core principles from engineering (compared to traditional operations). 
 
-- ecobee (yes, with a lowercase *e*) is a major player in the smart thermostat space
-- value proposition is mostly 
+The term "Production Engineer" is used at companies such as Facebook, but is a relatively uncommon term in the software engineering field. Thus, around June, the team rebranded to Site Reliability Engineering. The principles and role remained the same, but the responsibility of maintaining "Site Reliability" became self-evident in the name.
+
+![ecobee Logo][ecobee-logo]
+
+ecobee is a major player in the smart home space, with multiple smart thermostat products. Other products include a smart light switch, which I had the opportunity to help launch. Reducing carbon footprints and saving energy are core values to ecobee.
 
 # Milestones and Major Projects
 
@@ -28,7 +31,7 @@ I'm proud to have this subject matter under my belt, and I'm very interested to 
 My action plan for this goal was to:
     
 1. Read Google's Site Reliability Engineering book
-2. Enter the on-call rotation to respond to server instability when it occurs and
+2. Enter the on-call rotation to respond to server instability when it occurs, and
 3. Help with a continuous integration / delivery project
 
 In hindsight, my action plan for this goal was overloaded. I was able to achieve it, though, in part due to the excitement I had to internalize the responsibilities of the role.
@@ -64,3 +67,5 @@ I'm incredibly proud of what I learned and accomplished at ecobee.
 This goal was intended to be a project that I would take on in my own time, in an attempt to both learn Kubernetes through hands on experience, while simulataneously gaining in-depth knowledge of a squad's infrastructure. 
 
 The quarterly hackathon (Hack the Hive) turned out to be an excellent opportunity to attempt this goal.
+
+[ecobee-logo]: ecobee-logo.png "ecobee Logo"
