@@ -21,7 +21,7 @@ Over the two work terms, I've become a (self-declared) subject matter expert in 
 
 I'm proud to have this subject matter under my belt, and I'm very interested to gain experience with distributed tracing and large-scale logging in the future.
 
-# Important Goals
+# Most Important Goals
 
 ### Get a well-rounded understanding of the responsibilities of a Production Engineer.
 
@@ -37,16 +37,30 @@ Reading Google's SRE book was by far the most useful of the three components, th
 
 ### Learn the failure response process for end-user-facing services.
 
-This goal was the other half of my on-call aspirations, as I wanted to become a highly effective on-call responder. It turns out that *learning effective on-call by jumping into a rotation does not yeild desirable results*. In reponse to getting paged about an incident, I found myself falling into a fear-based response pattern. Internally I would be panicking, and thus thinking less clearly. I dreaded the next time an alert would come up, because I would feel the panick again.
+This goal was the other half of my on-call aspirations, as I wanted to become a highly effective on-call responder. It turns out that *learning effective on-call by jumping into a rotation does not yeild desirable results*. In reponse to getting paged about an incident, I found myself falling into a fear-based response pattern. Internally I would be panicking, and thus thinking less clearly. I dreaded the next time an alert would come up, because I would feel the panic again.
 
 In my first four months, I did not acquire the calm, rational approach (and other methodologies) that on-call necessitates. Towards the end of my term, I read the SRE book's chapter on effective on-call, which kicked off my quest to learn to do on-call properly.
+
+# On-call, done right
+
+On-call rotations are an unfortunate but necessary part of running critical software in production. There are several pitfalls that are easy to fall into, some of which I had fallen into myself, in retrospect. Some of the consequences of an ineffective rotation are serious, affecting the health (mental, emotional, etc) of your on-call members.
+
+I spent much of my time at ecobee being on-call, learning how to be effective, and eventually training teams on how to run rotations. I have a lot to say about how to do on-call, but my short-form breakdown is as follows:
+
+1. Always think about the users. The user experience is what on-call is trying to maintain. If there isn't a customer impact, it isn't even an incident.
+
+2. Follow a response procedure. A procedure will also help with calm, rational thinking.
+    1. Determine an incident severity by determining the customer impact. This determines many facets of the response, such as urgency, or whom to contact.
+    2. Resolve the customer impact. *Don't seek to resolve the root cause until the bleeding is stopped.*
+
+# Conclusions
+
+I'm incredibly proud of what I learned and accomplished at ecobee.
+
+# Extra bits
 
 ### Bring a squad's architecture to Kubernetes.
 
 This goal was intended to be a project that I would take on in my own time, in an attempt to both learn Kubernetes through hands on experience, while simulataneously gaining in-depth knowledge of a squad's infrastructure. 
 
 The quarterly hackathon (Hack the Hive) turned out to be an excellent opportunity to attempt this goal.
-
-# Conclusions
-
-I'm incredibly proud of what I learned and accomplished at ecobee.
