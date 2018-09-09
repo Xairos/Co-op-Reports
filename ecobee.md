@@ -10,7 +10,7 @@ ecobee is a major player in the smart home space, with multiple smart thermostat
 
 # Milestones and Major Projects
 
-I learned an incredible amount during my time at ecobee, far beyond my other co-op experinces (which were also enriching).
+I learned an incredible amount during my time at ecobee. Monitoring and on-call were two of the major topics I undertook during my terms.
 
 ## Monitoring
 
@@ -60,16 +60,20 @@ I spent much of my time at ecobee being on-call, learning how to be effective, a
     1. Determine an incident severity by determining the customer impact. This determines many facets of the response, such as urgency, or whom to contact.
     2. Resolve the customer impact. *Don't seek to resolve the root cause until the bleeding is stopped.*
 
+Given that teaching others is one of the best ways to solidify learning, I took on my next goal:
+
+## Train the SmartBuildings team to self-manage an on-call rotation.
+
+I was a member of the SmartBuildings product squad for most of my time at ecobee. One of the critical parts of launching the service into production was forming an on-call rotation. This was the first squad where none of the members had been on-call before (besides myself).
+
+Given the opportunity to make my understanding of on-call concrete, I took on the task of training the squad to run an effective rotation.
+
+My largest takeways were:
+* Building a training session takes a large amount of planning time to be effective.
+* Ensuring that the squad understood that they have ownership and control over the rotation maximized the effectiveness of the training.
+
 # Conclusion
 
 I'm incredibly proud of what I learned and accomplished at ecobee. Out of all my co-op experiences, I learned the most as an SRE at ecobee, and I found it difficult to select just a few topics for this reflection. I'm always excited to discuss the topics I learned about SRE, and as a result of the co-op, I'm pursuing an SRE role after graduation. Co-op has enabled me to discover the parts of software engineering I find most exciting, and it turns out that one of them is SRE.
-
-# Extra bits
-
-### Bring a squad's architecture to Kubernetes.
-
-This goal was intended to be a project that I would take on in my own time, in an attempt to both learn Kubernetes through hands on experience, while simulataneously gaining in-depth knowledge of a squad's infrastructure. 
-
-The quarterly hackathon (Hack the Hive) turned out to be an excellent opportunity to attempt this goal.
 
 [ecobee-logo]: ecobee-logo.png "ecobee Logo"
