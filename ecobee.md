@@ -76,7 +76,7 @@ My largest takeaways were:
 
 I'm incredibly proud of what I learned and accomplished at ecobee. Out of all my co-op experiences, I learned the most as an SRE at ecobee, and I found it difficult to select just a few topics for this reflection. I'm always excited to discuss the topics I learned about SRE, and as a result of the co-op, I'm pursuing an SRE role after graduation. Co-op has enabled me to discover the parts of software engineering I find most exciting, and it turns out that one of them is SRE.
 
-![ecobee Co-ops][ecobee-coops]
+![Fellow co-ops at ecobee for S18][ecobee-coops]
 
 [ecobee-logo]: ecobee-logo.png "ecobee Logo"
 [ecobee-coops]: ecobee-coops.jpg "ecobee Co-ops"
